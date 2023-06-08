@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "branchName": "창고명 56096123 지점",
+    "isAvailable": 1,
+    "isExamined": 1,
+    "numberOfUnits": 1,
+    "createdAt": "2021-08-23T22:43:43.532Z",
+    "updatedAt": "2022-11-01T16:40:21.723Z"
+  },
+  {
+    "id": 2,
+    "branchName": "창고명 56288122 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 5,
+    "createdAt": "2020-05-26T07:21:15.373Z",
+    "updatedAt": "2020-06-13T17:04:38.965Z"
+  },
+  {
+    "id": 3,
+    "branchName": "창고명 74377866 지점",
+    "isAvailable": 0,
+    "isExamined": 2,
+    "numberOfUnits": 1,
+    "createdAt": "2023-01-14T00:51:07.013Z",
+    "updatedAt": "2023-01-16T17:40:53.673Z"
+  },
+  {
+    "id": 4,
+    "branchName": "창고명 24351268 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 3,
+    "createdAt": "2021-10-09T09:08:29.865Z",
+    "updatedAt": "2022-11-25T03:34:19.827Z"
+  },
+  {
+    "id": 5,
+    "branchName": "창고명 66623319 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 2,
+    "createdAt": "2023-03-05T04:38:14.288Z",
+    "updatedAt": "2023-03-20T08:16:55.626Z"
+  },
+  {
+    "id": 6,
+    "branchName": "창고명 86387721 지점",
+    "isAvailable": 0,
+    "isExamined": 2,
+    "numberOfUnits": 4,
+    "createdAt": "2022-08-15T08:54:42.360Z",
+    "updatedAt": "2022-10-26T16:27:14.980Z"
+  },
+  {
+    "id": 7,
+    "branchName": "창고명 20682970 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 4,
+    "createdAt": "2021-03-15T05:35:21.125Z",
+    "updatedAt": "2021-08-02T02:54:35.173Z"
+  },
+  {
+    "id": 8,
+    "branchName": "창고명 57168633 지점",
+    "isAvailable": 1,
+    "isExamined": 1,
+    "numberOfUnits": 4,
+    "createdAt": "2021-04-18T10:53:22.924Z",
+    "updatedAt": "2023-03-13T16:17:12.352Z"
+  },
+  {
+    "id": 9,
+    "branchName": "창고명 79466383 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 3,
+    "createdAt": "2020-01-14T17:38:49.839Z",
+    "updatedAt": "2023-04-23T23:03:58.431Z"
+  },
+  {
+    "id": 10,
+    "branchName": "창고명 37623657 지점",
+    "isAvailable": 1,
+    "isExamined": 1,
+    "numberOfUnits": 1,
+    "createdAt": "2022-08-28T20:12:05.646Z",
+    "updatedAt": "2023-01-14T08:06:03.367Z"
+  },
+  {
+    "id": 11,
+    "branchName": "창고명 92355959 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 1,
+    "createdAt": "2021-12-27T00:47:28.752Z",
+    "updatedAt": "2022-07-22T01:41:49.935Z"
+  },
+  {
+    "id": 12,
+    "branchName": "창고명 12771750 지점",
+    "isAvailable": 1,
+    "isExamined": 1,
+    "numberOfUnits": 3,
+    "createdAt": "2020-01-13T20:05:46.844Z",
+    "updatedAt": "2022-03-21T15:21:05.410Z"
+  },
+  {
+    "id": 13,
+    "branchName": "창고명 57153916 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 2,
+    "createdAt": "2020-05-02T09:14:31.408Z",
+    "updatedAt": "2021-07-06T03:14:13.122Z"
+  },
+  {
+    "id": 14,
+    "branchName": "창고명 76212818 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 2,
+    "createdAt": "2020-03-16T22:46:51.369Z",
+    "updatedAt": "2023-02-21T09:58:33.387Z"
+  },
+  {
+    "id": 15,
+    "branchName": "창고명 59777534 지점",
+    "isAvailable": 1,
+    "isExamined": 1,
+    "numberOfUnits": 2,
+    "createdAt": "2022-03-10T07:14:45.523Z",
+    "updatedAt": "2023-04-01T12:15:41.123Z"
+  },
+  {
+    "id": 16,
+    "branchName": "창고명 30301230 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 5,
+    "createdAt": "2020-05-21T01:23:40.715Z",
+    "updatedAt": "2022-06-03T10:53:28.575Z"
+  },
+  {
+    "id": 17,
+    "branchName": "창고명 46304567 지점",
+    "isAvailable": 0,
+    "isExamined": 2,
+    "numberOfUnits": 4,
+    "createdAt": "2022-09-28T09:31:59.912Z",
+    "updatedAt": "2023-03-19T06:08:08.702Z"
+  },
+  {
+    "id": 18,
+    "branchName": "창고명 94368608 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 4,
+    "createdAt": "2023-01-04T04:36:51.315Z",
+    "updatedAt": "2023-01-13T00:14:53.451Z"
+  },
+  {
+    "id": 19,
+    "branchName": "창고명 36125576 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 1,
+    "createdAt": "2020-03-19T15:55:28.426Z",
+    "updatedAt": "2021-10-21T06:28:22.236Z"
+  },
+  {
+    "id": 20,
+    "branchName": "창고명 74072177 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 4,
+    "createdAt": "2022-10-03T05:59:16.427Z",
+    "updatedAt": "2023-04-03T09:05:54.529Z"
+  },
+  {
+    "id": 21,
+    "branchName": "창고명 65607119 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 4,
+    "createdAt": "2021-03-02T20:33:34.568Z",
+    "updatedAt": "2022-09-14T13:59:45.127Z"
+  },
+  {
+    "id": 22,
+    "branchName": "창고명 87280205 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 4,
+    "createdAt": "2021-05-14T14:52:58.626Z",
+    "updatedAt": "2022-10-24T12:13:38.547Z"
+  },
+  {
+    "id": 23,
+    "branchName": "창고명 95155081 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 2,
+    "createdAt": "2021-02-22T06:44:05.238Z",
+    "updatedAt": "2021-04-02T18:15:11.205Z"
+  },
+  {
+    "id": 24,
+    "branchName": "창고명 81989796 지점",
+    "isAvailable": 1,
+    "isExamined": 1,
+    "numberOfUnits": 4,
+    "createdAt": "2020-11-22T10:48:55.077Z",
+    "updatedAt": "2023-04-22T19:51:56.718Z"
+  },
+  {
+    "id": 25,
+    "branchName": "창고명 62363333 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 1,
+    "createdAt": "2020-03-19T15:03:46.760Z",
+    "updatedAt": "2022-01-18T20:19:33.650Z"
+  },
+  {
+    "id": 26,
+    "branchName": "창고명 63637618 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 5,
+    "createdAt": "2020-11-04T01:36:50.213Z",
+    "updatedAt": "2023-04-12T07:23:57.814Z"
+  },
+  {
+    "id": 27,
+    "branchName": "창고명 61953735 지점",
+    "isAvailable": 0,
+    "isExamined": 2,
+    "numberOfUnits": 4,
+    "createdAt": "2023-01-23T14:16:06.985Z",
+    "updatedAt": "2023-03-18T02:16:26.151Z"
+  },
+  {
+    "id": 28,
+    "branchName": "창고명 40777651 지점",
+    "isAvailable": 0,
+    "isExamined": 2,
+    "numberOfUnits": 3,
+    "createdAt": "2020-12-09T16:00:27.586Z",
+    "updatedAt": "2021-05-15T04:58:37.545Z"
+  },
+  {
+    "id": 29,
+    "branchName": "창고명 76779285 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 2,
+    "createdAt": "2022-01-27T11:04:52.682Z",
+    "updatedAt": "2023-02-10T03:49:58.512Z"
+  },
+  {
+    "id": 30,
+    "branchName": "창고명 37857540 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 5,
+    "createdAt": "2020-08-03T14:30:12.169Z",
+    "updatedAt": "2022-08-19T22:23:05.537Z"
+  },
+  {
+    "id": 31,
+    "branchName": "창고명 71199421 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 5,
+    "createdAt": "2022-02-26T08:28:57.745Z",
+    "updatedAt": "2022-12-07T12:30:18.726Z"
+  },
+  {
+    "id": 32,
+    "branchName": "창고명 67323033 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 2,
+    "createdAt": "2020-05-14T05:49:56.112Z",
+    "updatedAt": "2022-11-27T23:30:55.795Z"
+  },
+  {
+    "id": 33,
+    "branchName": "창고명 62256268 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 5,
+    "createdAt": "2023-04-05T22:27:29.978Z",
+    "updatedAt": "2023-04-10T15:34:35.267Z"
+  },
+  {
+    "id": 34,
+    "branchName": "창고명 86177731 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 3,
+    "createdAt": "2022-01-02T08:42:27.760Z",
+    "updatedAt": "2022-09-25T10:31:17.649Z"
+  },
+  {
+    "id": 35,
+    "branchName": "창고명 99775245 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 5,
+    "createdAt": "2022-02-12T20:11:22.838Z",
+    "updatedAt": "2022-06-26T00:37:14.680Z"
+  },
+  {
+    "id": 36,
+    "branchName": "창고명 65480587 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 2,
+    "createdAt": "2020-05-26T20:29:15.757Z",
+    "updatedAt": "2021-05-25T05:09:54.299Z"
+  },
+  {
+    "id": 37,
+    "branchName": "창고명 11654827 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 2,
+    "createdAt": "2022-08-09T22:56:35.579Z",
+    "updatedAt": "2023-02-16T20:44:28.237Z"
+  },
+  {
+    "id": 38,
+    "branchName": "창고명 19472947 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 1,
+    "createdAt": "2021-03-09T19:43:52.220Z",
+    "updatedAt": "2021-09-01T20:39:30.068Z"
+  },
+  {
+    "id": 39,
+    "branchName": "창고명 27467780 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 2,
+    "createdAt": "2020-07-14T21:17:09.028Z",
+    "updatedAt": "2020-12-12T20:56:48.205Z"
+  },
+  {
+    "id": 40,
+    "branchName": "창고명 19079597 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 2,
+    "createdAt": "2020-01-12T19:45:41.815Z",
+    "updatedAt": "2021-08-06T07:37:32.144Z"
+  },
+  {
+    "id": 41,
+    "branchName": "창고명 22646392 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 4,
+    "createdAt": "2021-11-11T09:40:25.344Z",
+    "updatedAt": "2022-03-09T11:29:10.249Z"
+  },
+  {
+    "id": 42,
+    "branchName": "창고명 67544690 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 3,
+    "createdAt": "2020-08-10T11:33:29.393Z",
+    "updatedAt": "2020-10-31T18:55:12.357Z"
+  },
+  {
+    "id": 43,
+    "branchName": "창고명 60912513 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 5,
+    "createdAt": "2020-11-20T01:56:24.440Z",
+    "updatedAt": "2021-06-09T03:39:28.842Z"
+  },
+  {
+    "id": 44,
+    "branchName": "창고명 50341507 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 4,
+    "createdAt": "2022-06-30T08:25:41.940Z",
+    "updatedAt": "2022-07-31T10:14:22.759Z"
+  },
+  {
+    "id": 45,
+    "branchName": "창고명 70949248 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 1,
+    "createdAt": "2020-08-16T07:20:48.763Z",
+    "updatedAt": "2023-01-04T06:46:12.473Z"
+  },
+  {
+    "id": 46,
+    "branchName": "창고명 66580305 지점",
+    "isAvailable": 1,
+    "isExamined": 1,
+    "numberOfUnits": 3,
+    "createdAt": "2020-06-03T23:56:41.831Z",
+    "updatedAt": "2021-10-11T16:04:15.665Z"
+  },
+  {
+    "id": 47,
+    "branchName": "창고명 59845664 지점",
+    "isAvailable": 0,
+    "isExamined": 2,
+    "numberOfUnits": 3,
+    "createdAt": "2020-08-17T06:18:55.445Z",
+    "updatedAt": "2021-08-29T02:59:26.355Z"
+  },
+  {
+    "id": 48,
+    "branchName": "창고명 29840536 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 2,
+    "createdAt": "2022-07-22T07:46:14.074Z",
+    "updatedAt": "2022-10-30T14:07:24.845Z"
+  },
+  {
+    "id": 49,
+    "branchName": "창고명 36859695 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 2,
+    "createdAt": "2022-02-24T18:33:34.151Z",
+    "updatedAt": "2022-07-01T00:01:00.829Z"
+  },
+  {
+    "id": 50,
+    "branchName": "창고명 74161790 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 3,
+    "createdAt": "2023-03-24T01:48:08.850Z",
+    "updatedAt": "2023-04-22T02:01:17.489Z"
+  },
+  {
+    "id": 51,
+    "branchName": "창고명 10866849 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 2,
+    "createdAt": "2020-03-10T23:28:53.941Z",
+    "updatedAt": "2021-11-30T15:02:14.735Z"
+  },
+  {
+    "id": 52,
+    "branchName": "창고명 58821562 지점",
+    "isAvailable": 1,
+    "isExamined": 1,
+    "numberOfUnits": 4,
+    "createdAt": "2021-12-04T23:59:25.200Z",
+    "updatedAt": "2022-12-15T18:32:28.213Z"
+  },
+  {
+    "id": 53,
+    "branchName": "창고명 13530568 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 2,
+    "createdAt": "2023-02-17T00:49:20.782Z",
+    "updatedAt": "2023-03-29T22:15:49.966Z"
+  },
+  {
+    "id": 54,
+    "branchName": "창고명 74145377 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 2,
+    "createdAt": "2022-07-19T03:44:03.386Z",
+    "updatedAt": "2022-11-09T03:57:22.278Z"
+  },
+  {
+    "id": 55,
+    "branchName": "창고명 90115695 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 1,
+    "createdAt": "2020-12-07T08:04:29.009Z",
+    "updatedAt": "2023-01-30T15:10:06.094Z"
+  },
+  {
+    "id": 56,
+    "branchName": "창고명 80598119 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 5,
+    "createdAt": "2020-08-17T02:09:47.629Z",
+    "updatedAt": "2020-12-05T20:51:29.403Z"
+  },
+  {
+    "id": 57,
+    "branchName": "창고명 64483570 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 5,
+    "createdAt": "2021-08-12T06:29:54.082Z",
+    "updatedAt": "2022-02-01T01:34:24.812Z"
+  },
+  {
+    "id": 58,
+    "branchName": "창고명 23078777 지점",
+    "isAvailable": 1,
+    "isExamined": 1,
+    "numberOfUnits": 4,
+    "createdAt": "2021-10-31T01:17:02.348Z",
+    "updatedAt": "2023-03-16T21:18:34.621Z"
+  },
+  {
+    "id": 59,
+    "branchName": "창고명 84261821 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 1,
+    "createdAt": "2021-07-11T12:23:40.259Z",
+    "updatedAt": "2022-12-20T04:39:31.338Z"
+  },
+  {
+    "id": 60,
+    "branchName": "창고명 81156024 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 2,
+    "createdAt": "2022-07-06T00:47:03.549Z",
+    "updatedAt": "2023-04-10T16:46:15.042Z"
+  },
+  {
+    "id": 61,
+    "branchName": "창고명 14495676 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 2,
+    "createdAt": "2020-01-08T12:57:07.848Z",
+    "updatedAt": "2020-04-30T08:31:27.625Z"
+  },
+  {
+    "id": 62,
+    "branchName": "창고명 34714840 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 4,
+    "createdAt": "2022-07-28T05:05:48.689Z",
+    "updatedAt": "2022-10-08T04:14:33.550Z"
+  },
+  {
+    "id": 63,
+    "branchName": "창고명 23693474 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 2,
+    "createdAt": "2021-07-11T20:50:13.943Z",
+    "updatedAt": "2021-08-16T23:38:49.463Z"
+  },
+  {
+    "id": 64,
+    "branchName": "창고명 95700582 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 3,
+    "createdAt": "2020-07-29T19:49:44.545Z",
+    "updatedAt": "2021-10-04T00:53:54.575Z"
+  },
+  {
+    "id": 65,
+    "branchName": "창고명 47922436 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 2,
+    "createdAt": "2021-03-22T22:46:51.336Z",
+    "updatedAt": "2021-04-23T14:31:41.497Z"
+  },
+  {
+    "id": 66,
+    "branchName": "창고명 25350224 지점",
+    "isAvailable": 1,
+    "isExamined": 1,
+    "numberOfUnits": 4,
+    "createdAt": "2020-11-18T04:09:50.851Z",
+    "updatedAt": "2022-08-02T05:05:31.363Z"
+  },
+  {
+    "id": 67,
+    "branchName": "창고명 33487558 지점",
+    "isAvailable": 0,
+    "isExamined": 2,
+    "numberOfUnits": 4,
+    "createdAt": "2020-05-24T08:24:05.192Z",
+    "updatedAt": "2022-06-22T17:52:43.135Z"
+  },
+  {
+    "id": 68,
+    "branchName": "창고명 21083007 지점",
+    "isAvailable": 0,
+    "isExamined": 2,
+    "numberOfUnits": 5,
+    "createdAt": "2021-08-18T06:29:34.460Z",
+    "updatedAt": "2021-11-30T21:23:33.273Z"
+  },
+  {
+    "id": 69,
+    "branchName": "창고명 77829711 지점",
+    "isAvailable": 1,
+    "isExamined": 1,
+    "numberOfUnits": 3,
+    "createdAt": "2021-06-28T11:38:20.768Z",
+    "updatedAt": "2021-07-24T20:32:34.280Z"
+  },
+  {
+    "id": 70,
+    "branchName": "창고명 54251278 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 1,
+    "createdAt": "2021-10-12T19:41:24.014Z",
+    "updatedAt": "2022-10-09T13:37:51.621Z"
+  },
+  {
+    "id": 71,
+    "branchName": "창고명 98057729 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 2,
+    "createdAt": "2020-11-29T11:18:30.058Z",
+    "updatedAt": "2021-08-04T05:38:05.803Z"
+  },
+  {
+    "id": 72,
+    "branchName": "창고명 97904060 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 3,
+    "createdAt": "2020-06-21T14:22:07.387Z",
+    "updatedAt": "2021-07-15T18:12:13.669Z"
+  },
+  {
+    "id": 73,
+    "branchName": "창고명 16752644 지점",
+    "isAvailable": 0,
+    "isExamined": 2,
+    "numberOfUnits": 4,
+    "createdAt": "2020-12-27T02:52:43.182Z",
+    "updatedAt": "2021-06-16T05:59:13.330Z"
+  },
+  {
+    "id": 74,
+    "branchName": "창고명 43872105 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 2,
+    "createdAt": "2022-11-30T23:23:51.994Z",
+    "updatedAt": "2023-01-12T09:10:45.668Z"
+  },
+  {
+    "id": 75,
+    "branchName": "창고명 51835916 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 1,
+    "createdAt": "2022-12-28T09:17:45.179Z",
+    "updatedAt": "2023-03-09T11:31:20.774Z"
+  },
+  {
+    "id": 76,
+    "branchName": "창고명 66986357 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 1,
+    "createdAt": "2020-07-30T18:47:24.419Z",
+    "updatedAt": "2022-09-08T00:25:37.689Z"
+  },
+  {
+    "id": 77,
+    "branchName": "창고명 56221281 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 3,
+    "createdAt": "2021-04-30T23:07:13.684Z",
+    "updatedAt": "2022-12-17T16:42:31.864Z"
+  },
+  {
+    "id": 78,
+    "branchName": "창고명 68615420 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 2,
+    "createdAt": "2022-02-26T07:10:06.941Z",
+    "updatedAt": "2023-02-11T09:05:13.155Z"
+  },
+  {
+    "id": 79,
+    "branchName": "창고명 48352728 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 2,
+    "createdAt": "2022-12-28T15:39:10.232Z",
+    "updatedAt": "2023-01-01T05:26:43.500Z"
+  },
+  {
+    "id": 80,
+    "branchName": "창고명 75945566 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 3,
+    "createdAt": "2022-02-17T08:11:51.927Z",
+    "updatedAt": "2023-04-11T18:15:20.043Z"
+  },
+  {
+    "id": 81,
+    "branchName": "창고명 82147191 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 3,
+    "createdAt": "2020-04-28T00:16:58.706Z",
+    "updatedAt": "2021-11-20T14:09:53.962Z"
+  },
+  {
+    "id": 82,
+    "branchName": "창고명 97034572 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 2,
+    "createdAt": "2023-03-01T07:53:58.034Z",
+    "updatedAt": "2023-03-18T19:32:42.702Z"
+  },
+  {
+    "id": 83,
+    "branchName": "창고명 17079457 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 4,
+    "createdAt": "2022-08-19T14:53:31.231Z",
+    "updatedAt": "2022-11-25T15:49:53.624Z"
+  },
+  {
+    "id": 84,
+    "branchName": "창고명 85674789 지점",
+    "isAvailable": 1,
+    "isExamined": 1,
+    "numberOfUnits": 1,
+    "createdAt": "2022-09-29T09:46:15.008Z",
+    "updatedAt": "2022-12-24T06:46:37.570Z"
+  },
+  {
+    "id": 85,
+    "branchName": "창고명 30322046 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 2,
+    "createdAt": "2022-10-15T13:42:20.987Z",
+    "updatedAt": "2023-03-01T20:02:40.406Z"
+  },
+  {
+    "id": 86,
+    "branchName": "창고명 88272167 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 4,
+    "createdAt": "2021-04-27T10:44:14.297Z",
+    "updatedAt": "2022-03-04T07:41:30.707Z"
+  },
+  {
+    "id": 87,
+    "branchName": "창고명 28195101 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 3,
+    "createdAt": "2020-05-12T16:46:09.593Z",
+    "updatedAt": "2020-11-06T21:46:37.302Z"
+  },
+  {
+    "id": 88,
+    "branchName": "창고명 74423511 지점",
+    "isAvailable": 1,
+    "isExamined": 1,
+    "numberOfUnits": 5,
+    "createdAt": "2021-09-02T02:42:36.839Z",
+    "updatedAt": "2021-09-14T17:55:03.394Z"
+  },
+  {
+    "id": 89,
+    "branchName": "창고명 71068861 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 1,
+    "createdAt": "2020-05-16T20:02:42.549Z",
+    "updatedAt": "2022-08-23T14:09:19.574Z"
+  },
+  {
+    "id": 90,
+    "branchName": "창고명 27883154 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 1,
+    "createdAt": "2020-05-22T01:28:46.711Z",
+    "updatedAt": "2020-07-30T14:35:06.376Z"
+  },
+  {
+    "id": 91,
+    "branchName": "창고명 90521258 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 4,
+    "createdAt": "2020-06-04T07:22:44.233Z",
+    "updatedAt": "2022-10-25T14:18:51.526Z"
+  },
+  {
+    "id": 92,
+    "branchName": "창고명 28951410 지점",
+    "isAvailable": 1,
+    "isExamined": 0,
+    "numberOfUnits": 1,
+    "createdAt": "2021-12-06T06:05:16.582Z",
+    "updatedAt": "2021-12-29T14:06:46.621Z"
+  },
+  {
+    "id": 93,
+    "branchName": "창고명 19000872 지점",
+    "isAvailable": 0,
+    "isExamined": 1,
+    "numberOfUnits": 5,
+    "createdAt": "2020-09-23T00:05:56.273Z",
+    "updatedAt": "2023-04-24T07:23:22.038Z"
+  },
+  {
+    "id": 94,
+    "branchName": "창고명 24655680 지점",
+    "isAvailable": 1,
+    "isExamined": 1,
+    "numberOfUnits": 1,
+    "createdAt": "2022-10-09T02:15:00.704Z",
+    "updatedAt": "2023-04-04T23:16:09.288Z"
+  },
+  {
+    "id": 95,
+    "branchName": "창고명 24827106 지점",
+    "isAvailable": 0,
+    "isExamined": 2,
+    "numberOfUnits": 1,
+    "createdAt": "2021-04-23T06:51:31.795Z",
+    "updatedAt": "2022-10-17T20:41:09.888Z"
+  },
+  {
+    "id": 96,
+    "branchName": "창고명 31562188 지점",
+    "isAvailable": 1,
+    "isExamined": 2,
+    "numberOfUnits": 4,
+    "createdAt": "2021-06-12T05:22:07.768Z",
+    "updatedAt": "2022-10-06T14:04:20.104Z"
+  },
+  {
+    "id": 97,
+    "branchName": "창고명 31828350 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 3,
+    "createdAt": "2023-01-01T19:18:31.504Z",
+    "updatedAt": "2023-04-04T05:41:59.634Z"
+  },
+  {
+    "id": 98,
+    "branchName": "창고명 77736768 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 3,
+    "createdAt": "2022-10-06T08:07:35.522Z",
+    "updatedAt": "2022-11-19T19:15:20.682Z"
+  },
+  {
+    "id": 99,
+    "branchName": "창고명 22304742 지점",
+    "isAvailable": 0,
+    "isExamined": 2,
+    "numberOfUnits": 4,
+    "createdAt": "2020-09-19T15:34:45.527Z",
+    "updatedAt": "2021-01-05T12:24:38.479Z"
+  },
+  {
+    "id": 100,
+    "branchName": "창고명 55499467 지점",
+    "isAvailable": 0,
+    "isExamined": 0,
+    "numberOfUnits": 1,
+    "createdAt": "2023-01-31T12:11:37.680Z",
+    "updatedAt": "2023-03-08T07:54:13.045Z"
+  }
+]
